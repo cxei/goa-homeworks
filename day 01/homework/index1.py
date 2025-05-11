@@ -1,14 +1,10 @@
+# 5)კომენტარების გამოყენებით , სათითაოდ ჩამოწერეთ გაკვეთილზე ნასწავლი მონაცემთა ტიპები , მოიყვანეთ მაგალითები და ასევე დაბეჭდეთ ტერმინალში თითოეული
 
-# 3) შექმენით ცვლადები სადაც შეინახავთ ინფორმაციას თქვენს თავზე მაგ(name , age , address , height , weight) და ტერმინალში გამოიტანეთ სრული ინფორმაცია
+#string
+print(123)
+#integer
+print("andria")
+#float
+print(0.5)
 
-name="Andria"
-
-age=13
-
-address = "kedias 10"
-
-height = 1.83
-
-weight =58
-
-print(name,age,address,height,weight)
+ 
