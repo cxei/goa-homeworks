@@ -5,7 +5,7 @@ print(15-10)
 print(100/33)
 print(132//10)
 print(8*43)
-print"(aea)"
+
 
 
       
