@@ -1,0 +1,7 @@
+num1 = int(input("enter a random number:"))
+num2 = int(input ("enter a second random number:"))
+print(num1+num2)
+print(num1-num2)
+print(num1*num2)
+print(num1/num2)
+print(num1//num2)

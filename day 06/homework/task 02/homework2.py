@@ -1,0 +1,7 @@
+name = input("enter your name")
+surname = input("enter your surname")
+age = input ("enter your age")
+adress = input ("enter your adress")
+hobby = input ("enter your hobby")
+fav_movie = input ("enter your favorite fav_movie")
+print = ("i am", name, surname, age,"years old", "my hobbie is", hobby, "my favorite movi is", fav_movie)
